@@ -11,6 +11,8 @@
     tools:context="com.soaresfelipef.fitorflab.MainActivity">
 
     <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"></RelativeLayout>
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rounded_corners"
+        android:backgroundTint="#2ca5f5"></RelativeLayout>
 </LinearLayout>
