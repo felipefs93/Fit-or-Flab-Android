@@ -40,7 +40,7 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentEnd="true"
             android:textSize="40dp"
-            android:textColor="#fefefe"
+            android:textColor="#fff"
             android:paddingRight="5dp" />
 
         <TextView
@@ -51,7 +51,7 @@
             android:id="@+id/textView2"
             android:layout_alignParentStart="true"
             android:paddingLeft="5dp"
-            android:textColor="#fefefe"
+            android:textColor="#fff"
             android:layout_alignParentBottom="true"
             android:paddingBottom="25dp"
             android:textStyle="bold" />
@@ -64,7 +64,7 @@
             android:id="@+id/textView3"
             android:layout_alignParentBottom="true"
             android:layout_alignParentStart="true"
-            android:textColor="#ffffff"
+            android:textColor="#fff"
             android:textSize="18dp"
             android:paddingLeft="5dp"
             android:paddingBottom="3dp" />
@@ -77,7 +77,7 @@
             android:id="@+id/textView4"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
-            android:textColor="#ffffff"
+            android:textColor="#fff"
             android:gravity="right"
             android:padding="5dp"
             android:background="@drawable/rounded_corners"
@@ -113,7 +113,7 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentEnd="true"
             android:textSize="40dp"
-            android:textColor="#fefefe"
+            android:textColor="#fff"
             android:paddingRight="5dp" />
 
         <TextView
@@ -124,7 +124,7 @@
             android:id="@+id/textView6"
             android:layout_alignParentStart="true"
             android:paddingLeft="5dp"
-            android:textColor="#fefefe"
+            android:textColor="#fff"
             android:layout_alignParentBottom="true"
             android:paddingBottom="25dp"
             android:textStyle="bold" />
@@ -137,7 +137,7 @@
             android:id="@+id/textView7"
             android:layout_alignParentBottom="true"
             android:layout_alignParentStart="true"
-            android:textColor="#ffffff"
+            android:textColor="#fff"
             android:textSize="18dp"
             android:paddingLeft="5dp"
             android:paddingBottom="3dp" />
@@ -150,7 +150,7 @@
             android:id="@+id/textView8"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
-            android:textColor="#ffffff"
+            android:textColor="#fff"
             android:gravity="right"
             android:padding="5dp"
             android:background="@drawable/rounded_corners"
@@ -187,7 +187,7 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentEnd="true"
             android:textSize="40dp"
-            android:textColor="#fefefe"
+            android:textColor="#fff"
             android:paddingRight="5dp" />
 
         <TextView
@@ -198,7 +198,7 @@
             android:id="@+id/textView10"
             android:layout_alignParentStart="true"
             android:paddingLeft="5dp"
-            android:textColor="#fefefe"
+            android:textColor="#fff"
             android:layout_alignParentBottom="true"
             android:paddingBottom="25dp"
             android:textStyle="bold" />
@@ -211,7 +211,7 @@
             android:id="@+id/textView11"
             android:layout_alignParentBottom="true"
             android:layout_alignParentStart="true"
-            android:textColor="#ffffff"
+            android:textColor="#fff"
             android:textSize="18dp"
             android:paddingLeft="5dp"
             android:paddingBottom="3dp" />
@@ -224,7 +224,7 @@
             android:id="@+id/textView12"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
-            android:textColor="#ffffff"
+            android:textColor="#fff"
             android:gravity="right"
             android:padding="5dp"
             android:background="@drawable/rounded_corners"
