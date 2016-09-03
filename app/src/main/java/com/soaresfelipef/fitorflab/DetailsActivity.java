@@ -16,7 +16,7 @@ public class DetailsActivity extends AppCompatActivity {
 
         TextView exerciseText = (TextView)findViewById(R.id.exerciseTitle);
         ImageView exerciseImg = (ImageView)findViewById(R.id.exerciseImage);
-        LinearLayout mainBG = (LinearLayout)findViewById(R.id.mainBG)
+        LinearLayout mainBG = (LinearLayout)findViewById(R.id.mainBG);
 
         String exerciseTitle = getIntent().getStringExtra(MainActivity.EXTRA_ITEM_TITLE);
         exerciseText.setText(exerciseTitle);
@@ -27,7 +27,7 @@ public class DetailsActivity extends AppCompatActivity {
         } else if(exerciseTitle.equalsIgnoreCase(MainActivity.EXERCISE_YOGA)){
             exerciseImg.setImageDrawable(getResources().getDrawable(R.drawable.lotus, getApplicationContext().getTheme()));
             mainBG.setBackgroundColor(Color.parseColor("#916bcd"));
-        } else if(exerciseTitle.equalsIgnoreCase(MainActivity.EXERCISE_CARDIO){
+        } else if(exerciseTitle.equalsIgnoreCase(MainActivity.EXERCISE_CARDIO)){
             exerciseImg.setImageDrawable(getResources().getDrawable(R.drawable.heart, getApplicationContext().getTheme()));
             mainBG.setBackgroundColor(Color.parseColor("#52ad56"));
         }
